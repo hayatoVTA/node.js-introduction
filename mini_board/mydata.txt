@@ -1,0 +1,10 @@
+{"id":"hoge","msg":"aa"}
+{"id":"hoge","msg":"b"}
+{"id":"hoge","msg":""}
+{"id":"hoge","msg":"aa"}
+{"id":"test2","msg":"2"}
+{"id":"test2","msg":"2"}
+{"id":"test1","msg":"3"}
+{"id":"test1","msg":"bbbb"}
+{"id":"test1","msg":"aaa"}
+{"id":"tuyano","msg":"ふむふむ。"}
